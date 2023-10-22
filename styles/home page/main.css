@@ -1,0 +1,45 @@
+.intro-text{
+  font-size: 50px;
+  font-weight: 700
+}
+
+.intro-body{
+  display: flex;
+  justify-content: center;
+}
+
+.intro-image-div{
+  display: flex;
+  justify-content: center;
+}
+
+.intro-image{
+  height: 700px;
+}
+
+.text{
+  padding-left: 100px;
+  font-size: 32px;
+  font-weight: 700;
+  color
+}
+
+.web-advert{
+  height: 410px;
+  width: 410px;
+  background: radial-gradient(circle, red, blue, green);
+  margin-left: 100px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.web-advert-text{
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+}
+
+.wealth-text{
+  color: blue;
+}

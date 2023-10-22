@@ -1,0 +1,47 @@
+body{
+  background-color: rgb(20,20,20);
+  color: white;
+  font-family: Arial;
+}
+
+.images{
+  height: 80px;
+  width: 80px;
+}
+
+.icon-button{
+  border-radius: 80px;
+  padding: 20px;
+  background-color: transparent;
+  border: 1px solid white;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.result,
+.moves,
+.score{
+  font-size: 20px;
+}
+
+.result{
+  margin-bottom: 15px;
+}
+
+.reset-button,
+.auto-play-button{
+  padding: 10px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.generated-player-moves,
+.generated-computerMove{
+  height: 80px;
+  width: 80px;
+}
+
+.confirmation-button{
+  padding: 5px;
+  cursor: pointer;
+}

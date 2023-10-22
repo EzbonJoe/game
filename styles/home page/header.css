@@ -1,0 +1,53 @@
+
+.header{
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: rgb(212, 207, 207);
+  font-family: ADLam Display;
+}
+
+.left-section{
+
+}
+
+.company-name{
+  font-size: 40px;
+  color: rgb(54, 115, 214);
+}
+
+.middle-section{
+
+}
+
+.search-button{
+  color: gray;
+  padding: 10px;
+  border-radius: 20px;
+  border: none;
+}
+
+.search-button:hover {
+  background-color: rgb(225, 227, 226);
+  cursor: pointer;
+}
+
+.search-button:active {
+  background-color: rgb(189, 190, 191);
+}
+
+.search-bar{
+  width: 600px;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 50px;
+}
+
+.products-and-services{
+  color: gray;
+  text-decoration: none;
+}
+
